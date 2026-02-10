@@ -1,14 +1,20 @@
 # BA820_Team11_MLProject
-This repo contains our BA820 team project exploring unsupervised machine learning on unstructured data to uncover patterns and clusters without predefined labels.
+This repository contains our BA820 team project focused on applying unsupervised machine learning techniques to uncover hidden patterns within U.S. federal grant data. Rather than beginning with predefined labels, our goal is to identify natural groupings that provide insight into how agencies structure funding, allocate resources, and support programs.
 
-## Current Direction (as of now)
-1. Primary dataset: U.S. Government Grant Opportunities (2004–2023)
-2. Secondary dataset (backup): Hollywood Age Gaps in On-Screen Couples
+## Current Project Status
+Phase 2 - Targeted Exploration & Clustering:
+Our team is currently conducting deeper exploratory analysis and implementing clustering methods to detect meaningful institutional patterns across federal agencies.
 
-## Grants: What we’re exploring
-We’re using clustering and text-based similarity methods to explore questions like:
+## Dataset
+U.S. Government Grant Opportunities (2004–2023)
 
-1. Are there recurring eligibility archetypes (government-only, nonprofit-focused, mixed) and do they differ in funding scale and agency sponsorship?
-2. Do distinct time eras of federal grant-making emerge (including shifts around major events like COVID and Ukraine)?
-3. Do grant description themes cluster in ways that relate to funding magnitude or cross-agency duplication?
-4. Do agencies form distinct funding strategy profiles based on typical award size, number of awards, and eligibility breadth?
+The dataset captures funding amounts, award counts, opportunity volume, reporting behavior, and related operational characteristics across federal agencies.
+
+## Analytical Direction
+Each team member is investigating a distinct dimension of the dataset to surface emerging patterns:
+1. Identification of agency funding strategy profiles
+2. Detection of eligibility and program archetypes
+3. Exploration of temporal shifts in federal grant activity
+4. Text-based similarity analysis across grant descriptions
+
+Together, these analyses aim to build a multi-dimensional understanding of how federal funding is structured.
