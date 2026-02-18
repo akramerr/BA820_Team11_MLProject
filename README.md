@@ -22,10 +22,11 @@ Together, these analyses aim to build a multi-dimensional understanding of how f
 
 ## M3 Integration Insights:
 
-- Agency funding strategies measurably shifted post-2018, with High Opportunity Agencies declining from 84% to 74% of grants
-- Volume-focused agencies (High Opportunity) allow 9.04 eligibility types on average, while concentrated funders restrict to 1.48 types
-- High Funding Agencies concentrate on defense, infrastructure, and international aid, while High Opportunity Agencies prioritize health and education
-- Temporal eras and agency strategies co-evolved rather than operating independently
+- High Opportunity Agencies declined from 84% to 74% post-2018, revealing a shift from broad distribution toward concentrated investment
+- Volume focused agencies allow 9.04 eligibility types on average versus 1.48 for concentrated funders, demonstrating that broad access pairs with high grant volume
+- High Funding Agencies concentrate on defense and infrastructure while High Opportunity Agencies prioritize health and education
+- Clinical trials surged in 2020 and dominated by 2022, while climate change grants maintained continuous presence (2004–2023)
+- Temporal eras, agency strategies, eligibility requirements, and topic distributions co-evolved rather than operating independently
 
 Together, these analyses build a multi-dimensional understanding of how federal funding is structured across time, topic, agency behavior, and applicant accessibility.
 
