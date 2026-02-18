@@ -20,7 +20,7 @@ Each team member investigated a distinct dimension of the dataset to surface eme
 4. Text-based similarity analysis across grant descriptions (Maggie) - Sentence transformer embeddings + K-Means revealed meaningful sub-topics within broad categories like health, science, and education
 Together, these analyses aim to build a multi-dimensional understanding of how federal funding is structured.
 
-## M3 Integration Insights:
+## M3 Integration Insights
 
 - High Opportunity Agencies declined from 84% to 74% post-2018, revealing a shift from broad distribution toward concentrated investment
 - Volume focused agencies allow 9.04 eligibility types on average versus 1.48 for concentrated funders, demonstrating that broad access pairs with high grant volume
