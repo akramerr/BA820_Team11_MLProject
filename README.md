@@ -2,9 +2,9 @@
 This repository contains our BA820 team project focused on applying unsupervised machine learning techniques to uncover hidden patterns within U.S. federal grant data. Rather than beginning with predefined labels, our goal is to identify natural groupings that provide insight into how agencies structure funding, allocate resources, and support programs.
 
 ## Current Project Status
-Phase 3 - Integration & Synthesis
+Phase 4 - Individual Refinement
 
-Our team has completed individual clustering analyses and is now integrating findings to reveal cross-cutting patterns. Integration work demonstrates how agency funding strategies, eligibility requirements, temporal eras, and topic distributions interact to shape the federal grant landscape.
+After our team integrated our first attempts at clustering in M3, we are now conducting individual work to attempt different methods and changes to ensure that our unuspervised ML clusters are robust, make sense, and are improved upon.
 
 ## Dataset
 U.S. Government Grant Opportunities (2004–2023)
