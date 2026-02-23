@@ -30,3 +30,9 @@ Together, these analyses aim to build a multi-dimensional understanding of how f
 
 Together, these analyses build a multi-dimensional understanding of how federal funding is structured across time, topic, agency behavior, and applicant accessibility.
 
+## M4 Refinement & Validation
+
+In Phase 4, team members refined their individual analyses to strengthen the reliability, interpretability, and credibility of the project’s findings. This included testing robustness across model choices and parameters, comparing alternative methods, and evaluating whether the patterns identified in earlier milestones remained consistent under different analytical assumptions. These refinements helped confirm that the clusters and archetypes reflect meaningful structure rather than artifacts of specific modeling decisions.
+
+Across agency strategy profiles, eligibility patterns, temporal eras, and topic groupings, the results remained broadly consistent while also revealing important nuances — such as potential sub-types within larger groups and areas where boundaries are less distinct. Together, these refinements improve confidence in the project’s conclusions and highlight opportunities for future exploration.
+
